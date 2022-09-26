@@ -42,12 +42,15 @@ h2 {
     font-size: 1.313rem;
     margin: 0 2.125rem;
     margin-bottom: 1.313rem;
+    font-weight: 700;
 }
 
 p {
     font-size: 0.938rem;
     margin: 0 2.125rem;
     margin-bottom: 2.813rem;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
 }
 
 @media only screen and (max-width: 375px) {
